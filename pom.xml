@@ -25,7 +25,7 @@
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>com.github.sfg-beer-works</groupId>
+    <groupId>com.github.Geekpen</groupId>
     <artifactId>sfg-beer-works-bom</artifactId>
     <version>1.0.28-SNAPSHOT</version>
     <packaging>pom</packaging>
@@ -40,13 +40,13 @@
     </licenses>
 
     <organization>
-        <name>Spring Framework Guru</name>
+        <name>Abungu.Brian Dev Works</name>
     </organization>
 
     <developers>
         <developer>
-            <name>John Thompson</name>
-            <organization>Spring Framework Guru</organization>
+            <name>Abungu Brian</name>
+            <organization>Refresher on spring framework</organization>
         </developer>
     </developers>
 
