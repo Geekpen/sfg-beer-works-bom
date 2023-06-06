@@ -27,7 +27,7 @@
 
     <groupId>com.github.Geekpen</groupId>
     <artifactId>sfg-beer-works-bom</artifactId>
-    <version>1.0.28-SNAPSHOT</version>
+    <version>1.0.28</version>
     <packaging>pom</packaging>
 
     <description>Parent Project for SFG Beer Works Projects</description>
@@ -554,6 +554,9 @@
                                 </goals>
                             </execution>
                         </executions>
+                        <configuration>
+                            <keyname>7CB72995BDD86D0B0666E2ECB288F61979BDE5CD</keyname>
+                        </configuration>
                     </plugin>
                 </plugins>
             </build>
