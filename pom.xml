@@ -27,7 +27,7 @@
 
     <groupId>com.github.Geekpen</groupId>
     <artifactId>sfg-beer-works-bom</artifactId>
-    <version>1.0.31-SNAPSHOT</version>
+    <version>1.0.32-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <description>Parent Project for SFG Beer Works Projects</description>
@@ -584,9 +584,9 @@
 
     <scm>
         <connection>https://github.com/geekpen/sfg-beer-works-bom.git</connection>
-        <developerConnection>scm:git:https@github.com:geekpen/sfg-beer-works-bom.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:geekpen/sfg-beer-works-bom.git</developerConnection>
         <url>https://github.com/geekpen/sfg-beer-works-bom</url>
-        <tag>sfg-beer-works-bom-1.0.30</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <issueManagement>
