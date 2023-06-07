@@ -575,7 +575,7 @@
 
     <scm>
         <connection>scm:git:git@github.com:geekpen/sfg-beer-works-bom.git</connection>
-        <developerConnection>scm:git:git@github.com:geekpen/sfg-beer-works-bom.git</developerConnection>
+        <developerConnection>scm:git:https@github.com:geekpen/sfg-beer-works-bom.git</developerConnection>
         <url>https://github.com/geekpen/sfg-beer-works-bom</url>
         <tag>sfg-beer-works-bom-1.0.30</tag>
     </scm>
