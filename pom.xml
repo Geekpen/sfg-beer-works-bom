@@ -470,6 +470,16 @@
 
     <profiles>
         <profile>
+            <id>gpg</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+            <properties>
+                <gpg.executable>gpg</gpg.executable>
+                <gpg.passphrase>SpringGuru1</gpg.passphrase>
+            </properties>
+        </profile>
+        <profile>
             <id>dockerbuild</id>
             <activation>
                 <file>
